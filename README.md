@@ -1,6 +1,7 @@
-# Proyecto: Sistema de Cálculo de Costos de Productos
+# Proyecto: Sistema de Costos
 
 Este proyecto fue desarrollado en **PSeInt** utilizando el **Lenguaje Flexible**. Simula un sistema de cálculo del costo final de un producto considerando descuentos, impuestos, cantidad, peso y destino del envío.
+- El proyecto esta en un archvio llamado sistemaCostos_P1_M1_JE.psc
 
 ## Objetivo
 Construir un algoritmo en pseudocódigo que simule el proceso de compra y cálculo del precio final de un producto aplicando:
